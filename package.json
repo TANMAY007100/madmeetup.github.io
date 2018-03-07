@@ -1,0 +1,27 @@
+{
+  "name": "madmeetup-website",
+  "version": "0.0.1",
+  "description": "FAQ website",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FaizMalkani/madmeetup-website.git"
+  },
+  "author": "Faiz Malkani",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FaizMalkani/madmeetup-website/issues"
+  },
+  "homepage": "https://github.com/FaizMalkani/madmeetup-website#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^3.8.0",
+    "gulp-imagemin": "^3.3.0",
+    "gulp-minify": "^1.0.0",
+    "gulp-vulcanize": "^6.1.0"
+  },
+  "dependencies": {}
+}
